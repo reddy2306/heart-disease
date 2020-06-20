@@ -15,7 +15,7 @@ SECRET_KEY = 'ki6h$lgstq&qykk=a%#34^#0on6%5w202d%($(j^=x$j2a68cg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['heart-dis.herokuapp.com','127.0.0.1']
 
 
 # Application definition
