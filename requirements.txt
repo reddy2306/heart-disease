@@ -9,7 +9,7 @@ joblib==0.13.2
 kiwisolver==1.2.0
 matplotlib==3.2.1
 mysql-connector-python==8.0.17
-numpy==1.17.1
+numpy==1.22.0
 pandas==0.25.1
 patsy==0.5.1
 protobuf==3.9.1
