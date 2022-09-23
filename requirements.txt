@@ -12,7 +12,7 @@ mysql-connector-python==8.0.17
 numpy==1.17.1
 pandas==0.25.1
 patsy==0.5.1
-protobuf==3.9.1
+protobuf==3.18.3
 psycopg2==2.8.5
 py4j==0.10.7
 pyparsing==2.4.7
